@@ -3,8 +3,6 @@ Contains possible interactions with the Galaxy Datatype
 """
 from bioblend.galaxy.client import Client
 
-import numpy
-
 
 class DatatypesClient(Client):
 
